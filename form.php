@@ -7,7 +7,7 @@
     <title>PHP uygulaması</title>
 </head>
 <body>
-    <form action="30-request.php" method="post">
+    <form action="POST.php" method="post">
 
         <input type="number" name="number_check">
         <button type="submit">Kontrol Et</button>
